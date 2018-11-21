@@ -1,0 +1,21 @@
+.lore{
+	border: 2px solid black;
+	padding: 10px;
+	text-align: center;
+}
+.zio{
+	border: 2px solid black;
+	display: block;
+}
+.cente{
+	border: 2px solid black;
+	display: block;
+}
+.ra{
+	width: 150px;
+}
+.scola{
+	position: absolute;
+	left: 180px;
+	top: 80px;
+}
